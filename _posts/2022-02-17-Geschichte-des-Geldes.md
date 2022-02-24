@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My First Post"
+title:  "Geschichte des Geldes"
 date:   2022-02-17 18:17:09 +0100
 categories: jekyll update
 ---
-Welcome to my first post !
+Hier kommt in Kürze der Inhalt...
