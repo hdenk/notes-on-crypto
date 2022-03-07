@@ -4,6 +4,7 @@ title:  "Historisches über Geld"
 date:   2022-02-17 18:17:09 +0100
 categories: krypto geld geschichte
 ---
+
 ## Von der Ware zum universellen Tauschmittel
 
 Nach dem Beginn der Sesshaftigkeit vor etwa 10.000 Jahren bildeten sich 
@@ -14,15 +15,15 @@ eine spezialisierte menschliche Tätigkeit ist.
 
 Für Händler ist die Ganze Welt ein Markt. Während der vergangenen 3 Jahrtausende 
 wurden immer ehrgeizigere Versuche unternommen, diese globale Vision zu verwirklichen.
-Handel bedeutet Austausch von Waren und Dienstleistungen und dabei stellt sich die 
+Handel bedeutet Austausch von Waren und Dienstleistungen und dabei stellt sich immer die 
 Frage nach dem Warenwert. [S 211/212 Harari]
 
 Tauschhandel existiert sicher schon seit es moderne Menschen (Homo Sapiens) 
-gibt. Wahrscheinlich haben auch schon Neanderthaler und vielleicht sogar die
+gibt. Wahrscheinlich haben auch schon Neandertaler und vielleicht sogar die
 Homo Erectus Dinge getauscht. Feuerstein, Pfeilspitzen, Tierzähne, Muscheln, Perlen, Felle, 
 Kleidung... und nat. auch Nahrungsmittel wurden getauscht. Dabei nahmen mit der 
 Zeit, ganz von selbst, einige Warenarten aufgrund ihrer Eigenschaften eine besondere 
-Rolle ein: Die eines universellen Tauschmittels.
+Rolle ein: Die eines **universellen Tauschmittels**.
 
 Unter den erwähnten günstigen Waren-Eigenschaften sind diese die Wichtigsten [Seite 21 König]:
 
@@ -80,17 +81,18 @@ ihrer Eigenschaften ableiten kann:
 
 |                            | Getreide | Kauris | Kakaobohnen | Silber/Gold
 |                            | -------- | ------ | ----------- | -----------
-|**Gebrauchswert**           | \***      | \*      | x           |  x
-|**Haltbarkeit**             | *        | **     | x           |  x
-|**Transportierfähigkeit**   | *        | **     | x           |  x
-|**Teilbarkeit**             | ***      | **     | x           |  x
-|**Seltenheit**              | *        | *      | x           |  x
-|**Unverwechselbarkeit**     | **       | ***    | x           |  x
-Mehr Sterne ist besser... Es gibt von Eins bis Drei Sterne 
+|**Gebrauchswert**           | \*\*\*   | \*     | \*\*        |  \*\*
+|**Haltbarkeit**             | \*       | \*\*   | \*\*        |  \*\*\*
+|**Transportierfähigkeit**   | \*       | \*\*   | \*\*        |  \*\*\*
+|**Teilbarkeit**             | \*\*\*   | \*\*   | \*\*        |  \*\*\*
+|**Seltenheit**              | \*       | \*     | \*          |  \*\*\*
+|**Unverwechselbarkeit**     | \*\*     | \*\*   | \*\*        |  \*\*\*
+
+[Es gibt von Eins bis Drei Sterne \*=mäßig, \*\*=gut, \*\*\*=sehr gut]
 
 Man sieht, Gold und Silber stechen heraus und im Laufe der Jahrhunderte erkannte man, 
-dass der direkte Gebrauchswert nicht die wichtigste Eigenschaft eines universellen
-Tauschmittels ist. Und so wurde in Mesopotamien nach ca 500 Jahren also ungefähr
+dass der direkte Gebrauchswert nicht die wichtigste Eigenschaft eines **universellen
+Tauschmittels** ist. Und so wurde in Mesopotamien nach ca 500 Jahren also ungefähr
 vor 4500 Jahren das Gerstenmaß als bevorzugtes Tauschmittel durch den Silberschekel
 zuerst gegänzt und dann abgelöst. Ein Silberschekel war ein Gewicht von 8,33 Gramm
 Silber. Im Kodex des Hammurabi und in der Bibel wird der Silberschekel als 
@@ -98,7 +100,7 @@ Zahlungsmittel erwähnt. Josef wurde von seinen Brüdern für 20 Silberschekel a
 Ismaeliten verkauft. 
 
 Anders als eine Sila Gerste hat ein Schekel Silber an sich 
-keinen direkten Gebrauchswert. Silber und Gold werden in der Regel zur Herstellung 
+keinen direkten, der Erfüllung von Grundbedürfnissen dienenden Gebrauchswert. Silber und Gold werden in der Regel zur Herstellung 
 von Schmuck und Statussymbolen verwendet. Ihr Wert ist also ausschließlich kultureller 
 Natur. [S 223 Harari] Abgesehen vom nur bedingt gegebenen Gebrauchswert erfüllen Gold und
 Silber alle für ein universelles Tauschmittel gewünschten Eigenschaften nahezu perfekt.
