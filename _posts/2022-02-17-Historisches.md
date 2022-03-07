@@ -16,17 +16,16 @@ eine spezialisierte menschliche Tätigkeit ist.
 Für Händler ist die Ganze Welt ein Markt. Während der vergangenen 3 Jahrtausende 
 wurden immer ehrgeizigere Versuche unternommen, diese globale Vision zu verwirklichen.
 Handel bedeutet Austausch von Waren und Dienstleistungen und dabei stellt sich immer die 
-Frage nach dem Warenwert. [S 211/212 Harari]
+Frage nach dem Warenwert. [@see Y. Harari S. 211/212]
 
-Tauschhandel existiert sicher schon seit es moderne Menschen (Homo Sapiens) 
-gibt. Wahrscheinlich haben auch schon Neandertaler und vielleicht sogar die
-Homo Erectus Dinge getauscht. Feuerstein, Pfeilspitzen, Tierzähne, Muscheln, Perlen, Felle, 
+Tauschhandel existiert sicher seit es moderne Menschen 
+gibt. Aber wahrscheinlich haben auch die Neandertaler und vielleicht sogar die
+Homo Erectus schon Dinge getauscht. Feuerstein, Pfeilspitzen, Tierzähne, Muscheln, Perlen, Felle, 
 Kleidung... und nat. auch Nahrungsmittel wurden getauscht. Dabei nahmen mit der 
 Zeit, ganz von selbst, einige Warenarten aufgrund ihrer Eigenschaften eine besondere 
 Rolle ein: Die eines **universellen Tauschmittels**.
 
-Unter den erwähnten günstigen Waren-Eigenschaften sind diese die Wichtigsten [Seite 21 König]:
-
+Unter den erwähnten günstigen Waren-Eigenschaften sind diese die Wichtigsten:
 
 - Gebrauchswert
 
@@ -39,6 +38,8 @@ Unter den erwähnten günstigen Waren-Eigenschaften sind diese die Wichtigsten [
 - Seltenheit
 
 - Identifizierbarkeit / Unverwechselbarkeit 
+
+[@see A. König S. 21]
 
 Beispiele für in der Vergangenheit als universelle Tauschmittel gebrauchte 
 Waren sind: 
@@ -112,12 +113,12 @@ vor 4500 Jahren das Gerstenmaß als bevorzugtes Tauschmittel durch den Silbersch
 zuerst gegänzt und dann abgelöst. Ein Silberschekel war ein Gewicht von 8,33 Gramm
 Silber. Im Kodex des Hammurabi und in der Bibel wird der Silberschekel als 
 Zahlungsmittel erwähnt. Josef wurde von seinen Brüdern für 20 Silberschekel an die
-Ismaeliten verkauft. 
+Ismaeliten verkauft. [@see Y. Harari S. 223] 
 
 Anders als eine Sila Gerste hat ein Schekel Silber an sich 
 keinen direkten, der Erfüllung von Grundbedürfnissen dienenden Gebrauchswert. Silber und Gold werden in der Regel zur Herstellung 
 von Schmuck und Statussymbolen verwendet. Ihr Wert ist also ausschließlich kultureller 
-Natur. [S 223 Harari] Aber abgesehen vom nur bedingt gegebenen Gebrauchswert (Gold kann man nicht essen) erfüllen Gold und
+Natur. Aber abgesehen vom nur bedingt gegebenen Gebrauchswert erfüllen Gold und
 Silber alle für ein universelles Tauschmittel gewünschten Eigenschaften nahezu perfekt.
 
 Allerdings... Zu dem, was wir Heute unter Geld verstehen, fehlte noch etwas. Dieses Etwas 
@@ -126,7 +127,7 @@ lydischen Königs die erste Münze aus einer Legierung aus Silber und Gold.
 
 ![Lydische Münze ca 640 v Chr.](/notes-on-crypto/assets/images/Lydische-Muenze-500x202.jpg "Lydische Münze ca 640 v. Chr.")
 
-[Lydische Münze ca 640 v. Chr]
+[**Lydische Münze ca 640 v. Chr** Von Classical Numismatic Group, Inc. http://www.cngcoins.com, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=547604]
 
 Münzen haben gegenüber den ungeprägten Gewichten zwei Vorteile. Erstens: Die Prägung 
 garantiert das Gewicht d.h. sie müssen nicht bei jedem Bezahlvorgang gewogen werden. 
