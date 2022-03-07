@@ -80,10 +80,10 @@ Stoffe als universelles Tauschmittel verwendet. Als die Spanier ankamen, richtet
 sie bald Kakao-Plantagen und Webfabriken ein, in denen sie die Indios verklavten, 
 um für den erzeugten Kakao und die Webprodukte Gold und Silber einzutauschen.
 
-**Zigaretten**
+**Zigaretten/Tabak**
 
-![Zigaretten](/notes-on-crypto/assets/images/Zigaretten-475x303.jpg "Zigaretten")<br/>
-[**Zigaretten** Von Roth-Händle/Elsässische Tabakmanufaktur, Straßurg - [1] (Text), Gemeinfrei, https://commons.wikimedia.org/w/index.php?curid=15807153]
+![Tabak](/notes-on-crypto/assets/images/Tabak-640x480.jpg "Tabak")<br/>
+[**Tabak** Von Jesse Shadow - Eigenes Werk (Originaltext: Selbst erstellt), Gemeinfrei, https://commons.wikimedia.org/w/index.php?curid=12055905]
 
 An Orten, wo fast jeder Mensch raucht und kein Geld zur 
 Verfügung steht, also beispielsweise in Lagern und Gefängnissen, gelten oft Zigaretten als ein 
